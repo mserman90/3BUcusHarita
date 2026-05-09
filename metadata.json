@@ -1,0 +1,6 @@
+{
+  "name": "Map3d",
+  "description": "Ported from cartesiancs/map3d",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
